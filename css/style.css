@@ -37,6 +37,9 @@ div {
   background-color:#008000; text-align:left;
 }
 
+h2 #yellow {text-shadow: 5px 5px 2px; color:#c7e2c7;
+}
+
 footer p {text-align: right; padding-bottom: 10px; padding-right: 10px;
 }
 
