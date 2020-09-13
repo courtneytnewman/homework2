@@ -1,11 +1,11 @@
 body {
   background-color:#000000;
-color:#ffffff;
+color:#FFFFFF;
 font-family: "Lucida Grande", sans-serif;
 } 
 
 title {
-  color: #ffffff;
+  color: #FFFFFF;
 }
 
 img {
@@ -20,14 +20,24 @@ h2 {
   font-size:30px; color:#808080; text-shadow:5px 5px 2px;}
 
 p {
-  font-size:24px; padding-top:20px; color:#ffffff}
+  font-size:24px; padding-top:20px; color:#FFFFFF}
 
 #red {
   background-color:#FF0000; text-align:right;} 
+
 #yellow {
-  background-color:#ffff00; text-align:right; color:#000000;
+  background-color:#FFFF00; text-align:right; color:#000000;
 }
 
+#blue {
+  background-color:#0000FF; text-align:left; 
+}
+
+#green {
+  background-color:#008000; text-align:left;
+}
+footer p {text-align: right; padding-bottom: 10px; padding-right: 10px;
+}
 
 
 
