@@ -8,10 +8,6 @@ title {
   color: #FFFFFF;
 }
 
-img {
-  verticle-align:center
-}
-
 h1 {
   font-size:64px; text-align:center;} 
 
@@ -45,6 +41,6 @@ footer p {text-align: right; padding-bottom: 10px; padding-right: 10px;
 }
 
 img {
-  display: block; width: 525px; 
+  display: block; width: 525px; text-align: center;
 }
 
