@@ -4,6 +4,10 @@ text-color:#ffffff;
 font-family: "Lucida Grande", sans-serif;
 } 
 
+title {
+  text-color: #ffffff;
+}
+
 img {
   verticle-align:center
 }
