@@ -44,6 +44,6 @@ footer p {text-align: right; padding-bottom: 10px; padding-right: 10px;
 }
 
 img {
-  display: block; width: 525px; text-align: center;
+  display: block; margin-left: auto; margin-right: auto; width: 525px;
 }
 
