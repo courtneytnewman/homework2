@@ -36,8 +36,11 @@ p {
 #green {
   background-color:#008000; text-align:left;
 }
+
 footer p {text-align: right; padding-bottom: 10px; padding-right: 10px;
 }
 
-
+img {
+  display: block; width: 525px; 
+}
 
