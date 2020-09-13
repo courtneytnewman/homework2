@@ -1,25 +1,25 @@
 body {
-  background-color: #000000;
-text-color: #ffffff;
+  background-color:#000000;
+text-color:#ffffff;
 font-family: "Lucida Grande", sans-serif;
 } 
 
 img {
-  verticle-align: center
+  verticle-align:center
 }
 
 h1 {
-  font-size:64px; text-align: center;} 
+  font-size:64px; text-align:center;} 
 
 
 h2 {
   font-size:30px; color:#808080; text-shadow:5px 5px 2px;}
 
 p {
-  font-size: 24px; padding-top: 20px;}
+  font-size:24px; padding-top:20px;}
 
 div.red {
-  background-color: #FF0000; text-align: right;} 
+  background-color:#FF0000; text-align:right;} 
 
 
 
