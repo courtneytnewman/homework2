@@ -1,11 +1,11 @@
 body {
   background-color:#000000;
-text-color:#ffffff;
+color:#ffffff;
 font-family: "Lucida Grande", sans-serif;
 } 
 
 title {
-  text-color: #ffffff;
+  color: #ffffff;
 }
 
 img {
@@ -20,10 +20,13 @@ h2 {
   font-size:30px; color:#808080; text-shadow:5px 5px 2px;}
 
 p {
-  font-size:24px; padding-top:20px; text-color:#ffffff}
+  font-size:24px; padding-top:20px; color:#ffffff}
 
 #red {
   background-color:#FF0000; text-align:right;} 
+#yellow {
+  background-color:#ffff00; text-align:right; color:#000000;
+}
 
 
 
